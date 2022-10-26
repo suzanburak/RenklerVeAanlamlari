@@ -1,0 +1,14 @@
+C:\Users\90535\source\repos\Renklerin dilli\Renklerin dilli\obj\Debug\Renklerin dilli.csproj.AssemblyReference.cache
+C:\Users\90535\source\repos\Renklerin dilli\Renklerin dilli\obj\Debug\Renklerin_dilli.Form1.resources
+C:\Users\90535\source\repos\Renklerin dilli\Renklerin dilli\obj\Debug\Renklerin_dilli.Properties.Resources.resources
+C:\Users\90535\source\repos\Renklerin dilli\Renklerin dilli\obj\Debug\Renklerin dilli.csproj.GenerateResource.cache
+C:\Users\90535\source\repos\Renklerin dilli\Renklerin dilli\obj\Debug\Renklerin dilli.csproj.CoreCompileInputs.cache
+C:\Users\90535\source\repos\Renklerin dilli\Renklerin dilli\bin\Debug\Renklerin dilli.exe.config
+C:\Users\90535\source\repos\Renklerin dilli\Renklerin dilli\bin\Debug\Renklerin dilli.exe
+C:\Users\90535\source\repos\Renklerin dilli\Renklerin dilli\bin\Debug\Renklerin dilli.pdb
+C:\Users\90535\source\repos\Renklerin dilli\Renklerin dilli\obj\Debug\Renklerin dilli.exe
+C:\Users\90535\source\repos\Renklerin dilli\Renklerin dilli\obj\Debug\Renklerin dilli.pdb
+C:\Users\90535\source\repos\Renklerin dilli\Renklerin dilli\obj\Debug\Renklerin_dilli.Form2.resources
+C:\Users\90535\OneDrive\Masaüstü\c#example\Renklerin dilli\Renklerin dilli\obj\Debug\Renklerin dilli.csproj.AssemblyReference.cache
+C:\Users\90535\OneDrive\Masaüstü\c#example\Renklerin dilli\Renklerin dilli\obj\Debug\Renklerin dilli.exe
+C:\Users\90535\OneDrive\Masaüstü\c#example\Renklerin dilli\Renklerin dilli\obj\Debug\Renklerin dilli.pdb
